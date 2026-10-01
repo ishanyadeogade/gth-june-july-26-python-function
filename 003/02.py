@@ -1,4 +1,6 @@
 
+# WAP to input number from keyboard and print its table using a recursion
+
 def table(n,count=1):
     
     if count<=10:
