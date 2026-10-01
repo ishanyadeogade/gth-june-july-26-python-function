@@ -1,4 +1,6 @@
 
+# WAP to input number two values first is base and second is index and calculate its power using recursion
+
 def get_power(base,index,res=1):
     if index>0:
         res*=base 
